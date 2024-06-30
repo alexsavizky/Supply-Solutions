@@ -1,0 +1,6 @@
+
+/venv/Lib/site-packages/pip/_vendor/idna/__pycache__
+/venv/Lib/site-packages/pip/_vendor/chardet
+venv/Lib/site-packages/colorama/__pycache__/__init__.cpython-38.pyc
+*.pyc
+*.pyc
